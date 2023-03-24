@@ -40,6 +40,7 @@
 - [Darshan Panchal] (https://github.com/Darshan016)
 - [taku](https://github.com/newcoder316) 
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
+- [Bhushan Pilare] (https://github.com/Bhushan-04)
 - [Umair Hassan] (https://github.com/itz-umairhassan)
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Atahan Haznedar] (https://github.com/atahan2000)
